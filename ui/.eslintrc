@@ -1,0 +1,12 @@
+{
+	"extends": "airbnb-base",
+	"parserOptions": {
+        "ecmaVersion": 2017
+    },
+	"rules": {
+		"react/prop-types": "off"
+	},
+	"env": {
+		"browser": true
+	}
+}
